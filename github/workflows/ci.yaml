@@ -8,4 +8,4 @@ build:
     
     steps:
     - name: Say Hello
-        run: echo "The pipeline is working! Hello There Eina!"
+      run: echo "The pipeline is working!"
