@@ -1,10 +1,8 @@
 """
 Test Cases TestAccountModel
 """
-import json
 from unittest import TestCase
 from models import db
-from models.account import Account
 
 ACCOUNT_DATA = {}
 
