@@ -11,7 +11,7 @@ jobs:
         run: echo "The pipeline is working!"
 
       - name: Checkout Code
-        uses: actions/cehckout@v3
+        uses: actions/checkout@v3 # Downloads the code to the runner
 
       - name: Set Up Python
         uses: actions/setup-python@v4
