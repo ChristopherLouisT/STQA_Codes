@@ -2,7 +2,6 @@
 Test Cases TestAccountModel
 """
 from unittest import TestCase
-from models import db
 
 ACCOUNT_DATA = {}
 
